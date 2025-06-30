@@ -1,0 +1,12 @@
+appId: fun.91code.kai
+productName: Kai
+copyright: Copyright © 2025 91code
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
